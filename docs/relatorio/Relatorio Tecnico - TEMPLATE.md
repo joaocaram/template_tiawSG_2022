@@ -180,6 +180,9 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 > um usuário deve realizar para utilizar todas as características do seu sistema. 
 
 
+> **Exemplo de Diagrama (opcional, pode ser em texto)**
+> ![Exemplo de Diagrama de Navegação](images/userflow.png)
+
 # Avaliação da Aplicação
 
 ......  COLOQUE AQUI O SEU TEXTO ......
