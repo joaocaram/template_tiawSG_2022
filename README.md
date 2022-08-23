@@ -15,3 +15,8 @@ Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 * Nome completo do professor 1
 * Nome completo do professor 2
 
+## Quadro de tarefas
+Coloque aqui o link para acesso do Kanban do projeto, seja ele no GitHub ou em outra plataforma.
+
+## Instruções para uso
+Coloque aqui as instruções para acessar a página inicial do projeto (caminho completo do arquivo).
